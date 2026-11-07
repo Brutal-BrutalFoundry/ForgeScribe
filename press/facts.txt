@@ -1,0 +1,36 @@
+ForgeScribe by Brutal Foundry LLC
+Product facts, November 6, 2026
+
+Turn recordings into text. Keep them on your PC.
+
+ForgeScribe turns interviews, lectures, voice notes and videos into editable text and subtitles with local speech recognition on Windows.
+
+Website and real-result walkthrough: https://brutalfoundry.com/forgescribe
+Microsoft Store: https://apps.microsoft.com/detail/9NJG5MVSJ582
+Privacy: https://brutalfoundry.com/forgescribe-privacy
+Public product information: https://github.com/Brutal-BrutalFoundry/ForgeScribe
+Product support: support@brutalfoundry.com
+Business contact: brutal@brutalfoundry.com
+
+Price: US$14.99 one-time purchase. Seven-day Microsoft Store trial. Local pricing and trial terms are displayed by Microsoft. No subscription or separate ForgeScribe account.
+
+Platform: Windows 10 version 22H2 or Windows 11, x64. Version: 1.0.1.0.
+
+Workflow: Add audio/video or record a microphone/system-audio output, choose a local speech model, transcribe, review and edit, then export.
+
+Exports: TXT, SRT, VTT, DOCX, Markdown, CSV, JSON, LRC and PDF.
+
+Models: Fast, Balanced, Accurate or Best; compatible whisper.cpp GGML .bin model import. Models require an initial download. Microsoft Store licensing may require internet.
+
+Limits: Live captions are provisional and can lag or revise words. Recognition, translation and optional speaker labels can be wrong. Review important results. PDF has limited character coverage. An active Store license is required to open the app and its saved transcript history; original recordings and exported files remain usable outside the app.
+
+Media in this kit:
+- logo.png: ForgeScribe product icon.
+- editor.png: Actual application interface rendered for product review with real public speech transcription output.
+- real-result.png: Fast-model result from an eleven-second public English JFK recording, with two timed segments. One sample, not a general accuracy or speed guarantee.
+- live-captions.png: Provisional caption-preview interface; words may lag or revise.
+
+This is a press kit, not an application installer or source-code release.
+Do not describe ForgeScribe as an iOS app, a subscription service, fully offline licensing, or independently benchmarked from this one speech sample.
+
+Copyright 2026 Brutal Foundry LLC. All rights reserved. Third-party content remains the property of its respective owners.

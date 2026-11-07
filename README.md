@@ -55,6 +55,10 @@ Spoken-language selection is separate from menu language. Some technical message
 - An active Store license to open the app. After a trial expires, purchase is required to open the app and its saved transcript history. Original recordings and exported files remain usable outside ForgeScribe.
 - Recognition, translation and speaker labels can be wrong. Review important results, particularly noisy or overlapping speech. PDF has limited character coverage; use DOCX or TXT when unsupported text is reported.
 
+## Press and reviewers
+
+[Press kit (ZIP)](press/ForgeScribe-press-kit.zip) with the logo, three product images and factual product notes. [Read the product facts](press/facts.txt). The real-result image is one public speech sample, not a general performance benchmark.
+
 ## Support
 
 Email **[support@brutalfoundry.com](mailto:support@brutalfoundry.com)** or open an issue here with your Windows version, selected model, steps and error message. Keep private recordings, account information and personal transcript contents out of public issues.
