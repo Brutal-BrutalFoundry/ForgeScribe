@@ -61,6 +61,8 @@ Spoken-language selection is separate from menu language. Some technical message
 
 ## Support
 
+[Version history](RELEASES.md)
+
 Email **[support@brutalfoundry.com](mailto:support@brutalfoundry.com)** or open an issue here with your Windows version, selected model, steps and error message. Keep private recordings, account information and personal transcript contents out of public issues.
 
 This repository contains product information and approved images. The application is distributed through Microsoft Store; its source is maintained separately.
