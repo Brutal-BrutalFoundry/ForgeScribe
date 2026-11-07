@@ -8,7 +8,7 @@ ForgeScribe by **BrutalFoundry** turns interviews, lectures, voice notes and vid
 
 US$14.99 once · Seven-day Store trial · No subscription · No ForgeScribe account
 
-Microsoft Store release is rolling out. Microsoft displays availability, local pricing and trial terms.
+Now available in Microsoft Store. Microsoft displays local pricing and trial terms.
 
 ![ForgeScribe showing a real public speech transcription](images/editor.png)
 
